@@ -1,4 +1,5 @@
-# Sistema de Gestão do Centro de Formação
+# WebSite-SGFA-PFJM
+### Website e Sistema de Gestão do Centro de Formação Académica PFJM
 
 ## 1. Sobre o projecto
 
@@ -47,25 +48,11 @@ O projecto pretende melhorar a presença digital do centro e simplificar as acti
 
 ## 4. Organização do projecto
 
-Estrutura inicial proposta:
-
 ```text
-centro-formacao/
+Centro Formacao PFJM/
 │
 ├── website/
-│   ├── index.html
-│   ├── pages/
-│   ├── css/
-│   ├── js/
-│   └── assets/
-│
 ├── sistema/
-│   ├── index.html
-│   ├── pages/
-│   ├── css/
-│   ├── js/
-│   └── assets/
-│
 ├── database/
 │   └── schema.sql
 │
